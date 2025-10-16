@@ -20,10 +20,9 @@ Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: PRAVEEN J 
 RegisterNumber: 25010748
 */
-<img width="1200" height="664" alt="{F012E233-118B-4E37-ABAB-35B1B63C1E33}" src="https://github.com/user-attachments/assets/13d3c42e-a6dc-4f2f-96c8-c4a4a17ba578" />
 
 ```
-
+<img width="1200" height="664" alt="{F012E233-118B-4E37-ABAB-35B1B63C1E33}" src="https://github.com/user-attachments/assets/13d3c42e-a6dc-4f2f-96c8-c4a4a17ba578" />
 ## Output:
 ![gaussian elimination]()
 
